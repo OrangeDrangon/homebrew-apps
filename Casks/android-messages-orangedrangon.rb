@@ -1,7 +1,7 @@
 # typed: false
 # frozen_string_literal: true
 
-cask "android-messgaes-orangedragon" do
+cask "android-messgaes-orangedrangon" do
     version "5.3.4"
     sha256 :no_check
   
