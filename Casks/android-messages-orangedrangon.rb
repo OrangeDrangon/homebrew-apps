@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 cask "android-messages-orangedrangon" do
-  version "6.0.0"
+  version "6.1.0"
   sha256 :no_check
 
   url "https://github.com/OrangeDrangon/android-messages-desktop/releases/download/v#{version}/Android-Messages-v#{version}-mac-universal.zip"
